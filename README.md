@@ -17,4 +17,6 @@ Commands:
   - "Connection Reject": decline connection to the incoming client
   - "Connection Termination": terminates connection with connected client
 
+When connected, two clients are able to freely chat to one another.
+
  
